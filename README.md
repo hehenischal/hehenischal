@@ -2,15 +2,15 @@
 
 ## About Me
 
-Hello! 👋 I'm <Your Name>, a passionate developer and technology enthusiast. I love building things, exploring new technologies, and contributing to open-source projects. This GitHub profile showcases some of my projects and contributions.
+Hello! 👋 I'm Nischal. I am Technology Mad. Hardware is my passon sar. I love building things, exploring new technologies, and contributing to open-source projects. This GitHub profile showcases some of my projects and contributions.
 
-- 🔭 I’m currently working on <Current Project/Job>.
-- 🌱 I’m currently learning <Technologies/Frameworks you're learning>.
-- 💬 Ask me about <Your expertise/specialization>.
-- 📫 How to reach me: <Your Email Address or Social Media Profiles>.
-- 😄 Pronouns: <Your Pronouns (e.g., He/Him, She/Her, They/Them)>.
+- 🔭 I’m currently a student.
+- 🌱 I’m currently learning study.
+- 💬 Ask me about my name, ronb, csgo.
+- 📫 How to reach me: dont.
+- 😄 Pronouns: </>.
 
-## My Projects
+<!--## My Projects
 
 Here are some of my notable projects:
 
@@ -32,17 +32,17 @@ I believe in the power of open-source software and the community. Here are some 
 
 - [Contribution 1](link-to-contribution-1)
 - [Contribution 2](link-to-contribution-2)
-- [Contribution 3](link-to-contribution-3)
+- [Contribution 3](link-to-contribution-3)-->
 
 ## Skills
 
-- Programming Languages: <List of Programming Languages you're proficient in>.
-- Technologies: <List of Technologies/Frameworks you're experienced with>.
+- Programming Languages: c,c++.
+- Technologies: django.
 - Tools: <List of Development Tools you use>.
 
 ## Find Me Online
 
-- Portfolio: [My Portfolio Website](link-to-portfolio-website)
+- Portfolio: [My Portfolio Website](nischallamichhane.com.np)
 - LinkedIn: [LinkedIn Profile](link-to-linkedin-profile)
 - Twitter: [Twitter Profile](link-to-twitter-profile)
 - Dev.to: [Dev.to Profile](link-to-devto-profile)
