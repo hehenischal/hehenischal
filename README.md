@@ -36,15 +36,14 @@ I believe in the power of open-source software and the community. Here are some 
 
 ## Skills
 
-- Programming Languages: c,c++.
-- Technologies: django.
+- Programming Languages: c,c++,html,css,js
+- Technologies: django,react,github
 - Tools: <List of Development Tools you use>.
 
 ## Find Me Online
 
 - Portfolio: [My Portfolio Website](nischallamichhane.com.np)
-- LinkedIn: [LinkedIn Profile](link-to-linkedin-profile)
-- Twitter: [Twitter Profile](link-to-twitter-profile)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nischal-lamichhane-b34789255/)
 - Dev.to: [Dev.to Profile](link-to-devto-profile)
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project. Happy coding! 🚀
