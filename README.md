@@ -44,6 +44,6 @@ I believe in the power of open-source software and the community. Here are some 
 
 - Portfolio: [My Portfolio Website](nischallamichhane.com.np)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nischal-lamichhane-b34789255/)
-- Dev.to: [Dev.to Profile](link-to-devto-profile)
+- Dev.to: [Dev.to Profile](https://dev.to/hehenischal)
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project. Happy coding! 🚀
