@@ -32,8 +32,11 @@ src="https://img.shields.io/github/followers/hehenischal?logo=github&style=for-t
 
 
 ### Socials
-
-<p align="left"> <a href="https://www.facebook.com/RagaaSMgR618" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/saagarbhujel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/saagar_bhujel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saagar-bhujel-187827193" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Saagarbhujel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hehenischal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hehenischal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hehenischal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hehenischal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hehenischal&theme=github_dark&utcOffset=8)
 
 ### Badges
 
