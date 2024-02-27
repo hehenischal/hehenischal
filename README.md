@@ -13,6 +13,8 @@ As a passionate coding enthusiast and dedicated student, I embark on an exciting
 
 <a href="https://www.github.com/hehenischal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hehenischal?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+![Visitor Badge](https://komarev.com/ghpvc/?username=hehenischal&color=blue)
+
 
 ### Skills
 
@@ -44,7 +46,6 @@ src="https://img.shields.io/github/followers/hehenischal?logo=github&style=for-t
 
 <a href="http://www.github.com/hehenischall"><img src="https://github-readme-stats.vercel.app/api?username=hehenischal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="hehenischal's GitHub stats" /></a>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=hehenischal&color=blue)
 <a href="http://www.github.com/hehenischal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hehenischal&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
