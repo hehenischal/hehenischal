@@ -8,7 +8,7 @@ As a passionate coding enthusiast and dedicated student, I embark on an exciting
 
 * 🌍  I'm based in Pokhara, Nepal
 * ✉️  You can contact me at [nischallc56@gmail.com](mailto:nischallc56@gmail.com)
-* 🧠  I'm learning django
+* 🧠  I'm learning and open to teaching django framework
 *  💬 Ask me about **The Time I contributed to DjangoProject.com**
 * ⚡  The term 'bug' in programming originated from an incident where a moth got trapped in a computer and caused a malfunction. Thus, 'debugging' became the term for fixing errors in code. 🐛💻
 
