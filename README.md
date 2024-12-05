@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/hehenischal?logo=github&style=for-t
 ### My Packages 
 1. Django-esewa
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/django-esewa)
-2.Nextnum
+2. Nextnum
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/nextnum)
 
 
