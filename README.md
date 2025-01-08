@@ -39,6 +39,8 @@ src="https://img.shields.io/github/followers/hehenischal?logo=github&style=for-t
 2. Nextnum
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/nextnum)
 
+[![Published on Django Packages](https://img.shields.io/badge/Published%20on-Django%20Packages-0c3c26)](https://djangopackages.org/packages/p/django-esewa/)
+
 
 ### Socials
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hehenischal&theme=github_dark)
