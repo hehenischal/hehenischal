@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nischal Lamichhane 
 =====================================================================================================================================
 
-A BSc.CSIT Student and Tech Enthusiast
+Student Doing Un-Studentlike stuff
 --------------------------------------
 
 As a passionate coding enthusiast and dedicated student, I embark on an exciting journey of continuous learning, exploring the vast realms of code to create digital wonders and shape the future of technology
