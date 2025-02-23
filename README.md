@@ -34,11 +34,11 @@ src="https://img.shields.io/github/followers/hehenischal?logo=github&style=for-t
 </p>
 
 ### My Packages 
-1. Django-adminlte4
+1. [django-adminlte4](https://github.com/hehenischal/django-adminlte4)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/django-adminlte4)
-2. Django-esewa
+2. [django-esewa](https://github.com/hehenischal/django-esewa)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/django-esewa)
-3. Nextnum
+3. [next num](https://github.com/hehenischal/next-num-package)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/nextnum)
 
 [![Published on Django Packages](https://img.shields.io/badge/Published%20on-Django%20Packages-0c3c26)](https://djangopackages.org/packages/p/django-esewa/)
