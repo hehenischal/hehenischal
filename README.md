@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 # Individual Member at Django Software Foundation
-Student Doing Un-Studentlike stuff
+##  <a href="https://www.google.com/search?q=Nischal+Lamichhane">「 Google Me 」</a>
 --------------------------------------
 
 As a passionate coding enthusiast and dedicated student, I embark on an exciting journey of continuous learning, exploring the vast realms of code to create digital wonders and shape the future of technology
